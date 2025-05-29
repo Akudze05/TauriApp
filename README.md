@@ -8,10 +8,10 @@ In this project
 ### Build and run
 
 Build for Windows:
-'npx tauri build'
-Build for Linux:
+'npx tauri build'\n
+Build for Linux:\n
 Run Ubuntu terminal:
-'npm run tauri build'
+'npm run tauri build'\n
 Run for dev:
 'npm run tauri dev'
 
